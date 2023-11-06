@@ -4,6 +4,8 @@ Princess Studio is a timeline creation tool.
 
 [Discord Server](https://discord.gg/UJdZkzCHSh)
 
+![Demo](Demo.mp4)
+
 * [Introductions](introductions/README.md)
   - [Overview](introductions/Overview.md)
   - [Start JP](introductions/FirstSteps.md) or [Start TW](introductions/FirstSteps_TW.md)
