@@ -29,6 +29,6 @@ PrincessStudio has multiple compartments:
 - [BattleStatus]() displays battle statuses of each units in battle using listboxes.
 - [BattleResult]() serializes historic battle and presents in a property grid for recalls.
 
-###### 1.3 Structures
-Below is an image describing PrincessStudio's structure and the compartments in its ecosystem:
-![Princess Studio Architecture]()
+###### 1.3 Architecture
+Below is an image describing PrincessStudio's architecture and the compartments in its ecosystem:
+![Princess Studio Architecture](PrincessStudioArchitecture.png)
