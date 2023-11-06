@@ -2,6 +2,8 @@
 
 Princess Studio is a timeline creation tool.
 
+[Discord Server](https://discord.gg/UJdZkzCHSh)
+
 * [Introductions](introductions/README.md)
   - [Overview](introductions/Overview.md)
   - [Start JP](introductions/FirstSteps.md) or [Start TW](introductions/FirstSteps_TW.md)
@@ -9,7 +11,7 @@ Princess Studio is a timeline creation tool.
 * [Concepts]()
   - [Logic Frame]()
 * [PrincessStudio]()
-  - [Hotkeys]()
+  - [Hotkeys](PrincessStudio/Hotkeys.md)
   - [ServerSettings]()
   - [CharaEditor]()
   - [AutoUB_GUI]()

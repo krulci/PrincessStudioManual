@@ -1,49 +1,49 @@
 ##### Enable/Disable PrincessStudio
-`F4`
+`KeyCode.F4`: `Toggle Princess Studio`
 
 ##### Pause Battle
-`Space`
+`KeyCode.Space`: `Pause Battle`
 
 ##### Execute UB
-`1`: `Unit 5`
+`KeyCode.1`: `Unit 5`
 
-`2`: `Unit 4`
+`KeyCode.2`: `Unit 4`
 
-`3`: `Unit 3`
+`KeyCode.3`: `Unit 3`
 
-`4`: `Unit 2`
+`KeyCode.4`: `Unit 2`
 
-`5`: `Unit 1`
+`KeyCode.5`: `Unit 1`
 
 ##### Set Battle Speed
-`Q`: `1/32`
+`KeyCode.Q`: `1/32`
 
-`W`: `1/16`
+`KeyCode.W`: `1/16`
 
-`E`: `1/8 `
+`KeyCode.E`: `1/8 `
 
-`R`: `1/4 `
+`KeyCode.R`: `1/4 `
 
-`T`: `1/2 `
+`KeyCode.T`: `1/2 `
 
-`Y`: `1`
+`KeyCode.Y`: `1`
 
-`U`: `2`
+`KeyCode.U`: `2`
 
-`I`: `4`
+`KeyCode.I`: `4`
 
-`O`: `8`
+`KeyCode.O`: `8`
 
-`P`: `16`
+`KeyCode.P`: `16`
 
-`[`: `32`
+`KeyCode.LeftBracket`: `32`
 
-`]`: `64`
+`KeyCode.RightBracket`: `64`
 
-`J`: `128`
+`KeyCode.J`: `128`
 
-`K`: `256`
+`KeyCode.K`: `256`
 
-`L`: `512`
+`KeyCode.L`: `512`
 
-`Semicolon`: `1024`
+`KeyCode.Semicolon`: `1024`
