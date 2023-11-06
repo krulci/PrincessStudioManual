@@ -25,7 +25,7 @@ for (int i = 0; ; i++)
     if (needs_to_adjust_previous_iteration)
         i = the_iteration_needs_to_be_adjusted;
 
-    if (desiredDamage > currentDamage)
+    if (currentDamage >= desiredDamage)
         break;
 }
 ```
