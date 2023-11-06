@@ -6,7 +6,7 @@ https://player.games.dmm.com/
 ```
 
 ##### 2. Download and Install Latest Version of Princess Connect Re Dive
-Register a DMM account. and input the following URL in your browser:
+Register a DMM account, and input the following URL in your browser:
 ```
 dmmgameplayer://priconner/cl/general
 # It will ask you if you want to open DMMGamePlayer
