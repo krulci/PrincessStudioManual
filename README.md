@@ -13,7 +13,7 @@ This Manual contains basic usage of Princess Studio, and some introductory knowl
   - [Start JP](introductions/FirstSteps.md) or [Start TW](introductions/FirstSteps_TW.md)
   - [Timeline Creation](introductions/CreateTL.md)
 * [Concepts]()
-  - [Logic Frame]()
+  - [Logic Frame](Concepts/LogicFrame.md)
 * [PrincessStudio]()
   - [Hotkeys](PrincessStudio/Hotkeys.md)
   - [ServerSettings]()
